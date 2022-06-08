@@ -1,0 +1,36 @@
+/* do this at the start of every stylesheet */
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+/* navbar styles */
+.navbar{
+  background-color: indigo;
+  color: white;
+  height: 50px;
+  /* setting the display to grid */
+  display: grid;
+  /* setting the spaces of columns in fractions */
+  grid-template-columns: 1fr 1fr 1fr;
+
+  /* setting padding for all text */
+  padding: 30px 8px 0px 8px;
+}
+
+.logo{
+  text-align: center;
+}
+
+.login{
+  text-align: right;
+}
+
+/* formating links */
+a:link{
+  color: white;
+  text-decoration: none;
+}
+a:visited{
+  color: white;
+}
