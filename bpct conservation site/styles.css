@@ -1,0 +1,12 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  padding: 2%;
+  background-color: blue;
+}
+.container{
+  background-color: black;
+  height: 200px;
+}
