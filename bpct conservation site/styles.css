@@ -27,10 +27,8 @@ body{
 .leftcontent{
   padding: 2% 1% 14% 1%;
   margin: 10px 10px 10px 10px;
-  font-size: 175%;
-  background-color: #016FB9;
   height: 100%;
-  width: 20%;
+  width: 100%;
 }
 .leftcontenttitle{
   color: black;
